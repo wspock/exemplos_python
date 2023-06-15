@@ -21,3 +21,13 @@ Para executar o script, é necessário ter a biblioteca `colorama` instalada. Vo
 ```python
 python mon_bateria.py
 ```
+
+### Cálculo de financiamento com reajuste anual;
+
+Precisei desse script para descubrir quanto vou pagar no final de um financiamento que fiz;
+
+Para executar o script, não é necessário nenhuma biblioteca. Você pode executá-lo através do comando:
+
+```python
+python parcelas_financiamento.py
+```
