@@ -31,3 +31,13 @@ Para executar o script, não é necessário nenhuma biblioteca. Você pode execu
 ```python
 python parcelas_financiamento.py
 ```
+
+### Gera timelapse com webcam;
+
+Precisei desse script para fazer um timelapse das minhas impressões 3D;
+
+Você pode executá-lo através do comando:
+
+```python
+python webcam_timelapse.py
+```
